@@ -206,6 +206,21 @@ Prefab:
       propertyPath: m_RootOrder
       value: 4
       objectReference: {fileID: 0}
+    - target: {fileID: 114000013585239938, guid: c8a62375b1ea46e4eba9d5b8240fb33b,
+        type: 2}
+      propertyPath: module.laserDevice
+      value: /dev/tty_in3
+      objectReference: {fileID: 0}
+    - target: {fileID: 114000013608529052, guid: c8a62375b1ea46e4eba9d5b8240fb33b,
+        type: 2}
+      propertyPath: module.laserDevice
+      value: /dev/tty_in4
+      objectReference: {fileID: 0}
+    - target: {fileID: 114000010431501252, guid: c8a62375b1ea46e4eba9d5b8240fb33b,
+        type: 2}
+      propertyPath: mode
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: c8a62375b1ea46e4eba9d5b8240fb33b, type: 2}
   m_IsPrefabParent: 0
